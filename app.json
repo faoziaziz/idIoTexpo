@@ -1,5 +1,8 @@
 {
   "expo": {
+    "android": {
+      "package": "com.labseni.idiot"
+    },
     "name": "idIoTexpo",
     "slug": "idIoTexpo",
     "privacy": "public",
@@ -23,7 +26,10 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "supportsTablet": true,
+      "bundleIdentifier": "com.labseni.idiot"
+    },
+    "description": "aplikasi iot gak jelas pake expo",
+    "githubUrl": "https://github.com/faoziaziz/idIoTexpo"
   }
 }

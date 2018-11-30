@@ -5,7 +5,9 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Anjir </Text>
+        <Text>Anjirit
+        bin asu
+        asikk</Text>
       </View>
     );
   }
